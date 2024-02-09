@@ -28,9 +28,7 @@
 .is-open {
   display: block;
 }
-/* .is-open {
-  display: block;
-} */
+ 
 .mobil-header {
   border: 1px solid rgb(251, 251, 251);
   border-radius: 8px;
